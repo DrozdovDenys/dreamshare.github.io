@@ -1,0 +1,18 @@
+%person-card__icon {
+        content: '';
+        width: 32px;
+        height: 32px;
+        display: block;
+        position: absolute;
+        right: 0;
+        bottom: 1%;
+        background-repeat: no-repeat;
+        background-position: center;
+        border-radius: 50%;
+        outline: 3px solid white;
+}
+%flex-center {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
